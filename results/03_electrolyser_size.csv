@@ -1,0 +1,7 @@
+electrolyser_MW,electrolyser_to_renewable_ratio,electrolyser_full_load_hours,FT_full_load_hours,fuel_t_per_year,unused_renewable_%
+150,0.3,5421,5418,28949,11.0
+200,0.4,4343,5786,30913,4.9
+250,0.5,3507,5840,31201,4.0
+300,0.6,2926,5846,31236,3.9
+350,0.7,2508,5847,31237,3.9
+400,0.8,2194,5847,31237,3.9

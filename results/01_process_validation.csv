@@ -1,0 +1,8 @@
+quantity,model,Koenig_et_al_2015,difference_%
+h2_fresh_t_h,3.01,3.01,0.0
+electrolyser_MW_AC,150.003,150.1,-0.1
+fuel_t_h,5.343,5.5,-2.9
+fuel_MW_LHV,65.182,67.1,-2.9
+carbon_efficiency,0.737,0.737,0.0
+ptl_efficiency,0.421,0.433,-2.8
+rwgs_heat_MW,10.506,11.5,-8.6

@@ -1,0 +1,12 @@
+kpi,value
+renewable_GWh,942.58
+electrolyser_flh,3506.93
+unused_energy_%,4.01
+H2_t,17592.7
+FT_flh,5839.8
+FT_hours_online,8584.0
+FT_starts,5.0
+fuel_t,31200.62
+fuel_GWh,380.65
+system_efficiency_%,40.38
+fuel_per_MW_renewable_t,62.4
