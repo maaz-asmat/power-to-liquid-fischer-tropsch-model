@@ -1,0 +1,14 @@
+parameter,value,unit,source
+FT catalyst,cobalt (low-temperature FT),-,Koenig et al. (2015)
+FT temperature,225,degC,Koenig et al. (2015)
+Process pressure (FT and RWGS),2.5,MPa,Koenig et al. (2015)
+ASF chain-growth probability alpha,0.90 (range 0.70-0.95),-,range from Koenig et al. (2015) for cobalt; 0.90 chosen for a modern Co catalyst
+H2/CO ratio at FT inlet,2.05,-,assumed; slightly below the ASF usage ratio 3-alpha = 2.1 (adjusted via CO2 feed as in Koenig et al.)
+CO conversion per FT pass,0.50,-,assumed (typical 0.4-0.6); varied 0.3-0.8 in the study
+RWGS temperature,900,degC,Koenig et al. (2015)
+RWGS equilibrium constant,K = 1/exp(4577.8/T - 4.33),-,Moe (1962) water-gas shift correlation
+Electrolyser (PEM) specific energy,4.3,kWh/Nm3 H2,Koenig et al. (2015) (69.7 % LHV)
+Rectifier efficiency,0.96,-,Koenig et al. (2015)
+Tail-gas purge fraction,0.179,-,calibrated so that the carbon efficiency equals 73.7 % (Koenig et al. 2015)
+Auxiliary power,0.9,kWh/kg fuel,assumed (compression cooling pumps)
+Fuel lower heating value,12.2,kWh/kg,Koenig et al. (2015): 67.1 MW / 5.5 t/h
